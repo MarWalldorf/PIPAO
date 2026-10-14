@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sprawdzi.217050b5\\x64\\Debug\\Absolwent.obj",
+            "outputs": [
+                "Sprawdzi.217050b5\\x64\\Debug\\Absolwent.h.obj.dt.module.json",
+                "Sprawdzi.217050b5\\x64\\Debug\\Absolwent.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
