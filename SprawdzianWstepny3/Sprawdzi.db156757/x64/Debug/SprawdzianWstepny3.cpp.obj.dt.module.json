@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sprawdzi.db156757\\x64\\Debug\\SprawdzianWstepny3.obj",
+            "outputs": [
+                "Sprawdzi.db156757\\x64\\Debug\\SprawdzianWstepny3.cpp.obj.dt.module.json",
+                "Sprawdzi.db156757\\x64\\Debug\\SprawdzianWstepny3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
