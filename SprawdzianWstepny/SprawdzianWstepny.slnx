@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SprawdzianWstepny.vcxproj" Id="4d6c2101-e3ba-4fe2-9a56-8f8de7c68966" />
+</Solution>

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sprawdzi.4d6c2101\\x64\\Debug\\KsiazkaPapierowa.obj",
+            "outputs": [
+                "Sprawdzi.4d6c2101\\x64\\Debug\\KsiazkaPapierowa.cpp.obj.dt.module.json",
+                "Sprawdzi.4d6c2101\\x64\\Debug\\KsiazkaPapierowa.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
