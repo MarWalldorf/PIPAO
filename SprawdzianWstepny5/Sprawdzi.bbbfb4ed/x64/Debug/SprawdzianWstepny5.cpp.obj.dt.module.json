@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sprawdzi.bbbfb4ed\\x64\\Debug\\SprawdzianWstepny5.obj",
+            "outputs": [
+                "Sprawdzi.bbbfb4ed\\x64\\Debug\\SprawdzianWstepny5.cpp.obj.dt.module.json",
+                "Sprawdzi.bbbfb4ed\\x64\\Debug\\SprawdzianWstepny5.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
