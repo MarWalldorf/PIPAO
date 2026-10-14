@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Sprawdzi.44fc213a\\x64\\Debug\\Klient.obj",
+            "outputs": [
+                "Sprawdzi.44fc213a\\x64\\Debug\\Klient.h.obj.dt.module.json",
+                "Sprawdzi.44fc213a\\x64\\Debug\\Klient.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
